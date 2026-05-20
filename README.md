@@ -39,6 +39,10 @@ The notebook demonstrates transfer learning, data preprocessing, and evaluation 
   - Defective correctly predicted: 442  
   - Okay correctly predicted: 259  
 - The model shows strong classification performance with minimal misclassifications.
+-Here is the confusion matrix of the model:
+
+![Confusion Matrix](results/confusion_matrix.png)
+
 
 ---
 
@@ -47,3 +51,5 @@ The notebook demonstrates transfer learning, data preprocessing, and evaluation 
    ```bash
    git clone https://github.com/tiwarinishtha123/casting-defect-detection.git
    cd casting-defect-detection
+
+
